@@ -1,0 +1,4 @@
+.env
+state.db
+monitor.log
+error.log
